@@ -1,32 +1,48 @@
 <div align="center">
 
-# Hey, I'm Vladimir 👋
+<!-- Typing SVG -->
+<a href="https://github.com/DoroninDobroCorp">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Programming+lets+you+build+anything;Everything+is+possible+—+it's+just+time+%26+effort;Python+%7C+Go+%7C+Rust+%7C+TypeScript&font=Fira+Code&center=true&width=520&height=50&color=58A6FF&vCenter=true&pause=1000&size=22" />
+</a>
 
-**Engineer who ships real tools — not just prompts**
+<br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@vovka__dobro-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vovka_dobro)
-[![Email](https://img.shields.io/badge/Email-DoroninDobro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DoroninDobro@gmail.com)
+<!-- GitHub Stats Card with Rank -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=DoroninDobroCorp&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</a>
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DoroninDobroCorp&theme=github-dark-blue&hide_border=true&short_numbers=true" alt="Streak Stats" />
+</a>
 
 </div>
 
 ---
 
-### 🧰 Languages & Proficiency
+### 🧰 Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-S_rank-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-S-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-A++-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-A--b7410e?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-B+-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
 
-### 👋 About Me
+### 💼 Looking for Engineers
 
-If you have **complex projects** — harder than "5 prompts into a top LLM" — and you can work in **6 terminals simultaneously**, hit me up about work opportunities.
+> If you have **complex projects** — harder than "5 prompts into a top LLM" — and you can work in **6 terminals simultaneously**, let's talk.
 
-📬 [DoroninDobro@gmail.com](mailto:DoroninDobro@gmail.com) · 💬 [@vovka_dobro](https://t.me/vovka_dobro)
+<p align="center">
+  <a href="mailto:DoroninDobro@gmail.com"><img src="https://img.shields.io/badge/DoroninDobro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://t.me/vovka_dobro"><img src="https://img.shields.io/badge/@vovka__dobro-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -41,42 +57,19 @@ If you have **complex projects** — harder than "5 prompts into a top LLM" — 
 
 Orchestrates AI CLI tools (Copilot, Codex, custom agents) to complete dev tasks autonomously. Smart task routing, review loops, LLM failover.
 
-> ⚠️ **Be careful** — it eats a LOT of tokens. I know I didn't invent anything new, just wired existing solutions together. Didn't expect it — but it works great! Without bmad-party the result is significantly worse. **Formulate your tasks well!**
+> ⚠️ **Careful — eats a LOT of tokens.** I know I just wired existing solutions together. Didn't expect it — but it works great! Without bmad-party the result is significantly worse. **Formulate your tasks well!**
 
 `Python` · `tmux` · `Cerebras` · `Gemini`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔬 [Research Automation](https://github.com/DoroninDobroCorp/research-automation) — Deep Research Pipeline
-*3 AI engines → Claude Opus → final report*
+#### ♟️ [MiniChess](https://github.com/DoroninDobroCorp/MiniChessVovka) — World #1 🏆
+*6×6 Crazyhouse engine that reached #1 globally on Chess.com*
 
-Parallel deep research from Parallel AI + Gemini + Perplexity with automatic consolidation. I consider this an excellent complement to professional development — **I use it almost daily**.
+Rust core — alpha-beta search, PVS, LMR, null-move pruning. Self-play training overnight. PyO3 bindings → Python GUI → Chess.com bot.
 
-`Python` · `Playwright` · `Claude Opus`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 🌍 [Terra Incognita](https://github.com/DoroninDobroCorp/TerraIncognita) — Exploration Companion
-*Find places that don't appear in mainstream guides*
-
-I'm an avid traveler 🌏 and existing tools weren't enough — I kept switching between multiple maps, so I built my own. Welcome, fellow travelers! Also check out [FatMap](https://fatmap.com) — awesome project — and [geocaching.com](https://geocaching.com) 🗺️
-
-`Python` · `FastAPI` · `MapLibre GL` · `OpenStreetMap`
-
-</td>
-<td width="50%" valign="top">
-
-#### ♟️ [MiniChess](https://github.com/DoroninDobroCorp/MiniChessVovka) — World #1 Chess Engine 🏆
-*6×6 Crazyhouse engine that reached #1 globally*
-
-Rust core with alpha-beta search, PVS, LMR, null-move pruning. Self-play training overnight. PyO3 bindings for Python GUI and Chess.com bot.
-
-<img src="https://raw.githubusercontent.com/DoroninDobroCorp/MiniChessVovka/main/assets/screenshots/top1.jpg" width="280" alt="#1 in the world" />
+<a href="https://github.com/DoroninDobroCorp/MiniChessVovka"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/MiniChessVovka/main/assets/screenshots/top1.jpg" width="300" alt="#1 in the world" /></a>
 
 `Rust` · `PyO3` · `Python`
 
@@ -86,22 +79,22 @@ Rust core with alpha-beta search, PVS, LMR, null-move pruning. Self-play trainin
 <tr>
 <td width="50%" valign="top">
 
-#### 📖 [RSVP Reader](https://github.com/DoroninDobroCorp/RSVP_reader) — Speed Reading PWA
-*Free → [read.ibet.team](https://read.ibet.team)*
+#### 🔬 [Research Automation](https://github.com/DoroninDobroCorp/research-automation) — Deep Research
+*3 AI engines → Claude Opus → final report*
 
-I couldn't find a free RSVP reader for iPhone that actually works well, so I built my own. EPUB support, offline mode, book library — all in ~40 KB of vanilla JS.
+Parallel deep research: Parallel AI + Gemini + Perplexity → automatic consolidation. An excellent complement to professional development — **I use it almost daily.**
 
-`JavaScript` · `PWA` · `Service Worker`
+`Python` · `Playwright` · `Claude Opus`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🛠 [Fusion 360 Scripts](https://github.com/DoroninDobroCorp/fusion360-scripts) — CAD Automation
-*Parametric modeling tools for Fusion 360*
+#### 🌍 [Terra Incognita](https://github.com/DoroninDobroCorp/TerraIncognita) — Explorer Companion
+*Find places that don't appear in mainstream guides*
 
-Auto-calculate dimensions, bounding boxes, and proportional parameter linking for parametric 3D models.
+I'm an avid traveler 🌏 — existing tools weren't enough, I kept switching between multiple maps, so I built my own. Welcome, fellow travelers! Also check out [FatMap](https://fatmap.com) and [geocaching.com](https://geocaching.com) 🗺️
 
-`Python` · `Fusion 360 API`
+`Python` · `FastAPI` · `MapLibre GL` · `OSM`
 
 </td>
 </tr>
@@ -109,12 +102,33 @@ Auto-calculate dimensions, bounding boxes, and proportional parameter linking fo
 <tr>
 <td width="50%" valign="top">
 
-#### 🎰 [Simulation](https://github.com/DoroninDobroCorp/simulation) — Bankroll Management Simulator
-*Monte Carlo simulation for sports betting strategies*
+#### 📖 [RSVP Reader](https://github.com/DoroninDobroCorp/RSVP_reader) — Speed Reading PWA
+*Try it free → [read.ibet.team](https://read.ibet.team)*
 
-12+ strategies (Kelly, adaptive, hybrid), parameter optimizer, GUI app (PyQt5) and web simulators. **Educational / research purposes.**
+Couldn't find a free RSVP reader for iPhone that works. Built my own — EPUB, offline, book library — all in ~40 KB vanilla JS.
+
+`JavaScript` · `PWA` · `Service Worker`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎰 [Simulation](https://github.com/DoroninDobroCorp/simulation) — Bankroll Simulator
+*Monte Carlo for sports betting strategies*
+
+12+ strategies (Kelly, adaptive, hybrid), parameter optimizer, GUI (PyQt5). **Research / educational.**
 
 `Python` · `NumPy` · `SciPy` · `PyQt5`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🛠 [Fusion 360 Scripts](https://github.com/DoroninDobroCorp/fusion360-scripts) — CAD Automation
+*Parametric modeling tools for Autodesk Fusion 360*
+
+Auto-calculate dimensions, bounding boxes, proportional parameter linking. `Python` · `Fusion 360 API`
 
 </td>
 <td width="50%" valign="top">
@@ -127,47 +141,25 @@ Auto-calculate dimensions, bounding boxes, and proportional parameter linking fo
 
 ---
 
-### 📊 GitHub Stats
-
+<details>
+<summary><b>📊 More Stats</b></summary>
+<br/>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=DoroninDobroCorp&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoroninDobroCorp&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoroninDobroCorp&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top Languages" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DoroninDobroCorp&theme=github-compact&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DoroninDobroCorp&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
   </a>
 </p>
-
----
-
-#### 📌 Pinned Repos
-
-<p align="center">
-  <a href="https://github.com/DoroninDobroCorp/bender">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DoroninDobroCorp&repo=bender&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/DoroninDobroCorp/MiniChessVovka">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DoroninDobroCorp&repo=MiniChessVovka&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/DoroninDobroCorp/TerraIncognita">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DoroninDobroCorp&repo=TerraIncognita&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/DoroninDobroCorp/research-automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DoroninDobroCorp&repo=research-automation&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+</details>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DoroninDobroCorp&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <a href="https://github.com/DoroninDobroCorp?tab=followers"><img src="https://img.shields.io/github/followers/DoroninDobroCorp?label=Followers&style=social" alt="GitHub Followers" /></a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=DoroninDobroCorp&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
