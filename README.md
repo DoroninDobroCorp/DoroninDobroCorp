@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/DoroninDobroCorp">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Programming+lets+you+build+anything;Everything+is+possible+—+it's+just+time+%26+effort;Python+%7C+Go+%7C+Rust+%7C+TypeScript&font=Fira+Code&center=true&width=520&height=50&color=58A6FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Programming+lets+you+build+anything;Everything+is+possible+%E2%80%94+just+time+and+effort;Python+%7C+Go+%7C+Rust+%7C+TypeScript&font=Fira+Code&center=true&width=520&height=50&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </a>
 
 <br/>
