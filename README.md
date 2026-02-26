@@ -9,7 +9,7 @@
 
 <!-- GitHub Stats Card with Rank -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DoroninDobroCorp&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=DoroninDobroCorp&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </a>
 
 <br/><br/>
@@ -30,7 +30,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Go-A++-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=1a1a2e" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Rust-A--b7410e?style=flat-square&logo=rust&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/static/v1?label=Rust&message=A-&color=b7410e&style=flat-square&logo=rust&logoColor=white&labelColor=1a1a2e" />
   &nbsp;
   <img src="https://img.shields.io/badge/TypeScript-B+-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e" />
 </p>
