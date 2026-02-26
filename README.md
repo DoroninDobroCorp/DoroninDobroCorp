@@ -16,7 +16,7 @@
 
 <!-- Streak Stats -->
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DoroninDobroCorp&theme=github-dark-blue&hide_border=true&short_numbers=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=DoroninDobroCorp&theme=github-dark-blue&hide_border=true&short_numbers=true" alt="Streak Stats" />
 </a>
 
 </div>
@@ -26,10 +26,13 @@
 ### 🧰 Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-S-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-A++-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-A--b7410e?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-B+-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-S_rank-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Go-A++-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Rust-A--b7410e?style=flat-square&logo=rust&logoColor=white&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-B+-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e" />
 </p>
 
 ---
