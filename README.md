@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-S-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-A++-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-A--b7410e?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-B+-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
@@ -46,7 +46,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🧪 Stuff I Built Instead of Sleeping
 
 <table>
 <tr>
@@ -139,27 +139,4 @@ Auto-calculate dimensions, bounding boxes, proportional parameter linking. `Pyth
 </tr>
 </table>
 
----
 
-<details>
-<summary><b>📊 More Stats</b></summary>
-<br/>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoroninDobroCorp&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DoroninDobroCorp&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
-  </a>
-</p>
-</details>
-
----
-
-<div align="center">
-  <a href="https://github.com/DoroninDobroCorp?tab=followers"><img src="https://img.shields.io/github/followers/DoroninDobroCorp?label=Followers&style=social" alt="GitHub Followers" /></a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=DoroninDobroCorp&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
