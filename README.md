@@ -9,7 +9,7 @@
 
 <!-- GitHub Stats Card with Rank -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=DoroninDobroCorp&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.zohan.tech/api?username=DoroninDobroCorp&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github&v=2" alt="GitHub Stats" />
 </a>
 
 <br/><br/>
