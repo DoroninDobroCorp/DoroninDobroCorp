@@ -97,6 +97,8 @@ Parallel deep research: Parallel AI + Gemini + Perplexity → automatic consolid
 
 I'm an avid traveler 🌏 — existing tools weren't enough, I kept switching between multiple maps, so I built my own. Welcome, fellow travelers! Also check out [FatMap](https://fatmap.com) and [geocaching.com](https://geocaching.com) 🗺️
 
+<a href="https://github.com/DoroninDobroCorp/TerraIncognita"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/DoroninDobroCorp/main/assets/terra-incognita-map.png" width="300" alt="Terra Incognita Map" /></a>
+
 `Python` · `FastAPI` · `MapLibre GL` · `OSM`
 
 </td>
