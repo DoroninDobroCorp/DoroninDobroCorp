@@ -1,0 +1,46 @@
+name: Auto-merge MiniChess highlight
+
+on:
+  schedule:
+    # Run at 10:00 UTC on March 17, 2026 (5 days from now)
+    - cron: '0 10 17 3 *'
+
+jobs:
+  merge-and-cleanup:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check if branch still exists
+        id: check
+        run: |
+          if git ls-remote --exit-code origin feature/minichess-highlight; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "exists=true" >> $GITHUB_OUTPUT
+            echo "Branch already merged or deleted"
+          fi
+
+      - name: Merge feature branch
+        if: steps.check.outputs.exists == 'true'
+        run: |
+          git config user.name "Vladimir Doronin"
+          git config user.email "DoroninDobro@gmail.com"
+          git merge origin/feature/minichess-highlight --no-ff -m "Merge: bilingual README with MiniChess highlight"
+          git push origin main
+
+      - name: Delete feature branch
+        if: steps.check.outputs.exists == 'true'
+        run: git push origin --delete feature/minichess-highlight || true
+
+      - name: Remove this workflow (self-cleanup)
+        if: steps.check.outputs.exists == 'true'
+        run: |
+          git pull origin main
+          git rm .github/workflows/auto-merge.yml
+          git commit -m "chore: remove auto-merge workflow after merge complete"
+          git push origin main

@@ -186,7 +186,7 @@ Auto-calculate dimensions, bounding boxes, proportional parameter linking. `Pyth
 
 ### 💼 Ищу инженеров
 
-> Если у вас **сложные проекты** — сложнее, чем «5 промптов в топовую LLM» — и вы можете работать в **6 терминалах одновременно**, давайте поговорим.
+> Если вы уже писали **сложные проекты** — сложнее, чем «5 промптов в топовую LLM» — и вы можете работать в **6 терминалах одновременно**, давайте поговорим.
 
 <p align="center">
   <a href="mailto:DoroninDobro@gmail.com"><img src="https://img.shields.io/badge/DoroninDobro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
