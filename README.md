@@ -19,9 +19,20 @@
   <img src="https://streak-stats.demolab.com/?user=DoroninDobroCorp&theme=github-dark-blue&hide_border=true&short_numbers=true" alt="Streak Stats" />
 </a>
 
+<br/><br/>
+
+<!-- Language Switch -->
+<a href="#-english">🇬🇧 English</a> &nbsp;|&nbsp; <a href="#-русский">🇷🇺 Русский</a>
+
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- ██  ENGLISH  ██ -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<h2 id="-english">🇬🇧 English</h2>
 
 ### 🧰 Stack
 
@@ -69,7 +80,7 @@ Rust core — alpha-beta search, PVS, LMR, null-move pruning. Self-play training
 </p>
 
 <p align="center">
-📰 <a href="https://habr.com/ru/articles/1008978/"><b>Публикация на Хабре</b></a> о проекте — 12,5K+ просмотров, статья в топе недели
+📰 <a href="https://habr.com/ru/articles/1008978/"><b>Featured on Habr</b></a> — 12.5K+ views, top of the week
 </p>
 
 <p align="center">
@@ -146,6 +157,142 @@ Couldn't find a free RSVP reader for iPhone that works. Built my own — EPUB, o
 *Parametric modeling tools for Autodesk Fusion 360*
 
 Auto-calculate dimensions, bounding boxes, proportional parameter linking. `Python` · `Fusion 360 API`
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- ██  РУССКИЙ  ██ -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<h2 id="-русский">🇷🇺 Русский</h2>
+
+### 🧰 Стек
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-S_rank-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Go-A++-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/static/v1?label=Rust&message=A-&color=b7410e&style=flat-square&logo=rust&logoColor=white&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-B+-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e" />
+</p>
+
+---
+
+### 💼 Ищу инженеров
+
+> Если у вас **сложные проекты** — сложнее, чем «5 промптов в топовую LLM» — и вы можете работать в **6 терминалах одновременно**, давайте поговорим.
+
+<p align="center">
+  <a href="mailto:DoroninDobro@gmail.com"><img src="https://img.shields.io/badge/DoroninDobro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://t.me/vovka_dobro"><img src="https://img.shields.io/badge/@vovka__dobro-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧪 Собрал вместо сна
+
+<table>
+<tr>
+<td colspan="2" valign="top">
+
+<div align="center">
+
+#### ♟️ [MiniChess](https://github.com/DoroninDobroCorp/MiniChessVovka) — #1 в мире 🏆
+*Движок 6×6 Crazyhouse, занявший 1-е место в мировом рейтинге Chess.com*
+
+</div>
+
+Ядро на Rust — alpha-beta поиск, PVS, LMR, null-move pruning. Тренировка self-play за ночь. PyO3 биндинги → Python GUI → бот для Chess.com.
+
+<p align="center">
+<a href="https://github.com/DoroninDobroCorp/MiniChessVovka"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/MiniChessVovka/main/assets/screenshots/top1.jpg" width="420" alt="#1 в мире" /></a>
+</p>
+
+<p align="center">
+📰 <a href="https://habr.com/ru/articles/1008978/"><b>Публикация на Хабре</b></a> о проекте — 12,5K+ просмотров, статья в топе недели
+</p>
+
+<p align="center">
+<code>Rust</code> · <code>PyO3</code> · <code>Python</code>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 [Bender](https://github.com/DoroninDobroCorp/bender) — AI-супервайзер задач
+*Он не решает ваши задачи — он следит, чтобы они были выполнены.*
+
+Оркестрирует AI CLI-инструменты (Copilot, Codex, кастомные агенты) для автономного выполнения dev-задач. Умная маршрутизация, циклы ревью, LLM failover.
+
+> ⚠️ **Осторожно — жрёт МНОГО токенов.** Я знаю, что просто связал существующие решения. Не ожидал — но работает отлично! Без bmad-party результат значительно хуже. **Формулируйте задачи чётко!**
+
+`Python` · `tmux` · `Cerebras` · `Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔬 [Research Automation](https://github.com/DoroninDobroCorp/research-automation) — Глубокий ресёрч
+*3 AI-движка → Claude Opus → финальный отчёт*
+
+Параллельный глубокий ресёрч: Parallel AI + Gemini + Perplexity → автоматическая консолидация. Отличное дополнение к профессиональному развитию — **использую почти каждый день.**
+
+`Python` · `Playwright` · `Claude Opus`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🌍 [Terra Incognita](https://github.com/DoroninDobroCorp/TerraIncognita) — Спутник путешественника
+*Находите места, которых нет в популярных путеводителях*
+
+Я заядлый путешественник 🌏 — существующих инструментов не хватало, постоянно переключался между картами, и сделал свой. Добро пожаловать, путешественники! Также рекомендую [FatMap](https://fatmap.com) и [geocaching.com](https://geocaching.com) 🗺️
+
+<a href="https://github.com/DoroninDobroCorp/TerraIncognita"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/DoroninDobroCorp/main/assets/terra-incognita-map.png" width="300" alt="Карта Terra Incognita" /></a>
+
+`Python` · `FastAPI` · `MapLibre GL` · `OSM`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📖 [RSVP Reader](https://github.com/DoroninDobroCorp/RSVP_reader) — PWA для скорочтения
+*Попробуйте бесплатно → [read.ibet.team](https://read.ibet.team)*
+
+Не нашёл бесплатного RSVP-ридера для iPhone. Сделал свой — EPUB, офлайн, библиотека книг — всё в ~40 КБ на чистом JS.
+
+`JavaScript` · `PWA` · `Service Worker`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🎰 [Simulation](https://github.com/DoroninDobroCorp/simulation) — Симулятор банкролла
+*Метод Монте-Карло для стратегий ставок*
+
+12+ стратегий (Kelly, адаптивные, гибридные), оптимизатор параметров, GUI (PyQt5). **Для исследований / обучения.**
+
+`Python` · `NumPy` · `SciPy` · `PyQt5`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛠 [Fusion 360 Scripts](https://github.com/DoroninDobroCorp/fusion360-scripts) — Автоматизация CAD
+*Параметрическое моделирование для Autodesk Fusion 360*
+
+Авторасчёт размеров, bounding boxes, связка пропорциональных параметров. `Python` · `Fusion 360 API`
 
 </td>
 </tr>
