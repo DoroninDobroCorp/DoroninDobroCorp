@@ -53,6 +53,33 @@
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+<div align="center">
+
+#### ♟️ [MiniChess](https://github.com/DoroninDobroCorp/MiniChessVovka) — World #1 🏆
+*6×6 Crazyhouse engine that reached #1 globally on Chess.com*
+
+</div>
+
+Rust core — alpha-beta search, PVS, LMR, null-move pruning. Self-play training overnight. PyO3 bindings → Python GUI → Chess.com bot.
+
+<p align="center">
+<a href="https://github.com/DoroninDobroCorp/MiniChessVovka"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/MiniChessVovka/main/assets/screenshots/top1.jpg" width="420" alt="#1 in the world" /></a>
+</p>
+
+<p align="center">
+📰 <a href="https://habr.com/ru/articles/1008978/"><b>Публикация на Хабре</b></a> о проекте — 12,5K+ просмотров, статья в топе недели
+</p>
+
+<p align="center">
+<code>Rust</code> · <code>PyO3</code> · <code>Python</code>
+</p>
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 #### 🤖 [Bender](https://github.com/DoroninDobroCorp/bender) — AI Task Supervisor
@@ -67,21 +94,6 @@ Orchestrates AI CLI tools (Copilot, Codex, custom agents) to complete dev tasks 
 </td>
 <td width="50%" valign="top">
 
-#### ♟️ [MiniChess](https://github.com/DoroninDobroCorp/MiniChessVovka) — World #1 🏆
-*6×6 Crazyhouse engine that reached #1 globally on Chess.com*
-
-Rust core — alpha-beta search, PVS, LMR, null-move pruning. Self-play training overnight. PyO3 bindings → Python GUI → Chess.com bot.
-
-<a href="https://github.com/DoroninDobroCorp/MiniChessVovka"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/MiniChessVovka/main/assets/screenshots/top1.jpg" width="300" alt="#1 in the world" /></a>
-
-`Rust` · `PyO3` · `Python`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
 #### 🔬 [Research Automation](https://github.com/DoroninDobroCorp/research-automation) — Deep Research
 *3 AI engines → Claude Opus → final report*
 
@@ -90,6 +102,9 @@ Parallel deep research: Parallel AI + Gemini + Perplexity → automatic consolid
 `Python` · `Playwright` · `Claude Opus`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 #### 🌍 [Terra Incognita](https://github.com/DoroninDobroCorp/TerraIncognita) — Explorer Companion
@@ -102,9 +117,6 @@ I'm an avid traveler 🌏 — existing tools weren't enough, I kept switching be
 `Python` · `FastAPI` · `MapLibre GL` · `OSM`
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 #### 📖 [RSVP Reader](https://github.com/DoroninDobroCorp/RSVP_reader) — Speed Reading PWA
@@ -115,6 +127,9 @@ Couldn't find a free RSVP reader for iPhone that works. Built my own — EPUB, o
 `JavaScript` · `PWA` · `Service Worker`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 #### 🎰 [Simulation](https://github.com/DoroninDobroCorp/simulation) — Bankroll Simulator
@@ -125,20 +140,12 @@ Couldn't find a free RSVP reader for iPhone that works. Built my own — EPUB, o
 `Python` · `NumPy` · `SciPy` · `PyQt5`
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 #### 🛠 [Fusion 360 Scripts](https://github.com/DoroninDobroCorp/fusion360-scripts) — CAD Automation
 *Parametric modeling tools for Autodesk Fusion 360*
 
 Auto-calculate dimensions, bounding boxes, proportional parameter linking. `Python` · `Fusion 360 API`
-
-</td>
-<td width="50%" valign="top">
-
-&nbsp;
 
 </td>
 </tr>
