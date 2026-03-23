@@ -60,7 +60,7 @@
 
 Rust core — alpha-beta search, PVS, LMR, null-move pruning. Self-play training overnight. PyO3 bindings → Python GUI → Chess.com bot.
 
-📰 **[Статья на Хабре](https://habr.com/ru/articles/1008978/)** вошла в топ месяца и набрала **20 000+ просмотров**
+📰 **[Habr article](https://habr.com/ru/articles/1008978/)** hit top of the month with **20,000+ views**
 
 <a href="https://github.com/DoroninDobroCorp/MiniChessVovka"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/MiniChessVovka/main/assets/screenshots/top1.jpg" width="300" alt="#1 in the world" /></a>
 
