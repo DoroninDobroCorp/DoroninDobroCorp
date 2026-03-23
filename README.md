@@ -53,7 +53,7 @@
 
 <table>
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2" align="center">
 
 #### ♟️ [MiniChess](https://github.com/DoroninDobroCorp/MiniChessVovka) — World #1 🏆
 *6×6 Crazyhouse engine that reached #1 globally on Chess.com*
