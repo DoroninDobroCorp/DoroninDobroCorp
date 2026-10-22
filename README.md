@@ -130,12 +130,16 @@ Multiplatform language learning assistant powered by Google Gemini. Interactive 
 </td>
 <td width="50%" valign="top">
 
-#### 🏃 [Run Game](https://github.com/DoroninDobroCorp/run_game) — Geo-Narrative Running Audio Game
-*Your city becomes the game level*
+#### 🏃 [Run Game](https://github.com/DoroninDobroCorp/run_game) — Geo-Narrative Running Companion
+*Your city becomes the game level — Couch-to-5K meets interactive audio story*
 
-Transforms daily running workouts into an interactive real-world story. Builds loop routes through actual landmarks around your home and weaves them into immersive audio scenes triggered dynamically by your cadence and location.
+Native iOS research instrument and spatial engine. Generates closed-loop routes around your home and weaves city landmarks into dynamic narrative scenes. Pre-compiled offline bundles, Couch-to-5K intervals, 30-min Russian audio master, and 94 Swift + 271 Python tests.
 
-`Python` · `Geo-Spatial` · `Audio Storytelling` · `Fitness`
+<p align="center">
+<a href="https://github.com/DoroninDobroCorp/run_game"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/run_game/main/docs/assets/run_game_founder_home.png" width="180" alt="Run Game Founder iOS App" /></a>
+</p>
+
+`Swift` · `iOS` · `Python` · `CoreLocation` · `AVAudio`
 
 </td>
 </tr>
@@ -283,12 +287,16 @@ RPG-система прокачки для домашнего мастера. 14
 </td>
 <td width="50%" valign="top">
 
-#### 🏃 [Run Game](https://github.com/DoroninDobroCorp/run_game) — Geo-Narrative беговая игра
-*Твой город становится игровым уровнем*
+#### 🏃 [Run Game](https://github.com/DoroninDobroCorp/run_game) — Geo-Narrative беговой компаньон
+*Твой город становится игровым уровнем: Couch-to-5K и интерактивная аудиоистория*
 
-Превращает регулярные пробежки в захватывающую интерактивную историю. Автоматически строит круговой маршрут через реальные места вокруг дома и превращает городские локации в сюжетные сцены с голосовым ведением под темп бега.
+Нативный iOS-инструмент и пространственный движок: строит замкнутый тренировочный маршрут через реальные места вокруг дома и превращает их в сюжетные аудиосцены. Полный офлайн-режим, интервалы Couch-to-5K, 30-минутный мастер-звук на русском, 94 Swift-теста и 271 тест на Python.
 
-`Python` · `Geo-Spatial` · `Audio Storytelling` · `Fitness`
+<p align="center">
+<a href="https://github.com/DoroninDobroCorp/run_game"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/run_game/main/docs/assets/run_game_founder_home.png" width="180" alt="Run Game Founder iOS App" /></a>
+</p>
+
+`Swift` · `iOS` · `Python` · `CoreLocation` · `AVAudio`
 
 </td>
 </tr>
