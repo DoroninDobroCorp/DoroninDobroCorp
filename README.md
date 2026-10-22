@@ -174,6 +174,19 @@ I'm an avid traveler 🌏 — existing tools weren't enough, I kept switching be
 <tr>
 <td colspan="2" valign="top">
 
+#### 🥗 Health Food — Blood Tests → Food Goals
+*Turns lab results into up to three clear nutrition goals, a meal plan and a shopping list*
+
+Web app tuned for Argentina (Spanish UI, local labs and units). Upload a lab PDF or type values, confirm every parsed number yourself, and a deterministic rules engine returns **at most 3 goals** — no guessing. Fail-closed safety: an unknown unit, an implausible value or a red flag (high fasting glucose, pregnancy, kidney/liver disease, under 18) blocks all advice and routes to a doctor. Allergen-aware meal plan, shopping list, weekly check-ins and progress charts across tests. AI is off by default and only rephrases goals. *A personal project, not a medical product — the rules are an unreviewed draft.*
+
+`Python` · `FastAPI` · `React 19` · `Vite` · `Rules Engine` · `Fail-Closed`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
 #### 🛠 [Fusion 360 Scripts](https://github.com/DoroninDobroCorp/fusion360-scripts) — CAD Automation
 *Parametric modeling tools for Autodesk Fusion 360*
 
@@ -182,6 +195,14 @@ Auto-calculate dimensions, bounding boxes, proportional parameter linking. `Pyth
 </td>
 </tr>
 </table>
+
+### 🔭 More Projects
+
+- 🎮 **[SUR](https://github.com/DoroninDobroCorp/Maiia_game)** — a cozy atmospheric Godot 4 game where real-world skills and creativity gradually reshape your personal world. Offline-first, parent-approved quests. `GDScript`
+- 🎹 **[XenQWERTY](https://github.com/DoroninDobroCorp/XenQWERTY)** — 53-EDO isomorphic microtonal keyboard with a Sethares sensory-dissonance lab · [live demo](https://145.239.82.124.sslip.io/piano/) · `JavaScript`
+- 📐 **[Pasha](https://github.com/DoroninDobroCorp/Pasha)** — gamified olympiad-math adventure inspired by Hollow Knight · [live demo](https://pasha-rho.vercel.app) · `Next.js` `TypeScript`
+- 🌀 **[Double Pendulum Trace](https://github.com/DoroninDobroCorp/double-pendulum-trace_Dimka)** — chaos explorer: five synced panels, phase-space and fractal maps, RK4 physics · `React` `TypeScript`
+- 🔬 **[Research Automation](https://github.com/DoroninDobroCorp/research-automation)** — three deep-research engines in parallel, merged into one report by Claude Opus · `Python` `Playwright`
 
 ---
 
@@ -331,6 +352,19 @@ RPG-система прокачки для домашнего мастера. 14
 <tr>
 <td colspan="2" valign="top">
 
+#### 🥗 Health Food — Анализы крови → цели в питании
+*Превращает результаты анализов в до трёх понятных пищевых целей, план питания и список покупок*
+
+Веб-приложение под Аргентину (испанский интерфейс, местные лаборатории и единицы). Загружаете PDF анализа или вводите значения, каждое распознанное число подтверждаете сами, а детерминированный движок правил выдаёт **не больше 3 целей** — без догадок. Безопасность по принципу fail-closed: неизвестная единица, неправдоподобное значение или красный флаг (высокая глюкоза натощак, беременность, болезни почек/печени, возраст до 18) блокируют любые рекомендации и ведут к врачу. План питания без ваших аллергенов, список покупок, еженедельный чек-ин и графики динамики между анализами. ИИ по умолчанию выключен и лишь переформулирует цели. *Личный проект, а не медицинский продукт: правила пока не проверял врач.*
+
+`Python` · `FastAPI` · `React 19` · `Vite` · `Rules Engine` · `Fail-Closed`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
 #### 🛠 [Fusion 360 Scripts](https://github.com/DoroninDobroCorp/fusion360-scripts) — Автоматизация CAD
 *Параметрическое моделирование для Autodesk Fusion 360*
 
@@ -339,3 +373,11 @@ RPG-система прокачки для домашнего мастера. 14
 </td>
 </tr>
 </table>
+
+### 🔭 Ещё проекты
+
+- 🎮 **[SUR](https://github.com/DoroninDobroCorp/Maiia_game)** — камерная атмосферная игра на Godot 4: реальные навыки и творчество постепенно преображают личный мир. Полностью офлайн, задания утверждает взрослый. `GDScript`
+- 🎹 **[XenQWERTY](https://github.com/DoroninDobroCorp/XenQWERTY)** — изоморфная 53-ступенная микротональная клавиатура и лаборатория диссонанса Сетареса · [онлайн-версия](https://145.239.82.124.sslip.io/piano/) · `JavaScript`
+- 📐 **[Pasha](https://github.com/DoroninDobroCorp/Pasha)** — олимпиадная математика как приключение в духе Hollow Knight · [онлайн-версия](https://pasha-rho.vercel.app) · `Next.js` `TypeScript`
+- 🌀 **[Double Pendulum Trace](https://github.com/DoroninDobroCorp/double-pendulum-trace_Dimka)** — исследователь хаоса: пять связанных панелей, фазовые пространства и фракталы, RK4 · `React` `TypeScript`
+- 🔬 **[Research Automation](https://github.com/DoroninDobroCorp/research-automation)** — три движка глубокого поиска параллельно, итоговый отчёт собирает Claude Opus · `Python` `Playwright`
