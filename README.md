@@ -19,9 +19,20 @@
   <img src="https://streak-stats.demolab.com/?user=DoroninDobroCorp&theme=github-dark-blue&hide_border=true&short_numbers=true" alt="Streak Stats" />
 </a>
 
+<br/><br/>
+
+<!-- Language Switch -->
+<a href="#-english">🇬🇧 English</a> &nbsp;|&nbsp; <a href="#-русский">🇷🇺 Русский</a>
+
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- ██  ENGLISH  ██ -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<h2 id="-english">🇬🇧 English</h2>
 
 ### 🧰 Stack
 
@@ -53,18 +64,28 @@
 
 <table>
 <tr>
-<td colspan="2" align="center">
+<td colspan="2" valign="top">
+
+<div align="center">
 
 #### ♟️ [MiniChess](https://github.com/DoroninDobroCorp/MiniChessVovka) — World #1 🏆
 *6×6 Crazyhouse engine that reached #1 globally on Chess.com*
 
+</div>
+
 Rust core — alpha-beta search, PVS, LMR, null-move pruning. Self-play training overnight. PyO3 bindings → Python GUI → Chess.com bot.
 
-📰 **[Habr article](https://habr.com/ru/articles/1008978/)** hit top of the month with **20,000+ views**
+<p align="center">
+<a href="https://github.com/DoroninDobroCorp/MiniChessVovka"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/MiniChessVovka/main/assets/screenshots/top1.jpg" width="420" alt="#1 in the world" /></a>
+</p>
 
-<a href="https://github.com/DoroninDobroCorp/MiniChessVovka"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/MiniChessVovka/main/assets/screenshots/top1.jpg" width="300" alt="#1 in the world" /></a>
+<p align="center">
+📰 <a href="https://habr.com/ru/articles/1008978/"><b>Habr Article</b></a> — hit top of the month with <b>20,000+ views</b>
+</p>
 
-`Rust` · `PyO3` · `Python`
+<p align="center">
+<code>Rust</code> · <code>PyO3</code> · <code>Python</code>
+</p>
 
 </td>
 </tr>
@@ -72,24 +93,49 @@ Rust core — alpha-beta search, PVS, LMR, null-move pruning. Self-play training
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 [Bender](https://github.com/DoroninDobroCorp/bender) — AI Task Supervisor
-*He doesn't solve your tasks — he makes sure they get done.*
+#### 🕊️ [HummingRead](https://github.com/DoroninDobroCorp/RSVP_reader) — Speed Reader & Focus Pilot
+*RSVP reader for EPUB, FB2, DOCX, TXT and web articles*
 
-Orchestrates AI CLI tools (Copilot, Codex, custom agents) to complete dev tasks autonomously. Smart task routing, review loops, LLM failover.
+Local-first speed reader anchored by Pico the focus pilot. Single or two-word RSVP with Optimal Recognition Point (ORP) fixation, intelligent punctuation cadence, light/dark themes, and offline library.
 
-> ⚠️ **Careful — eats a LOT of tokens.** I know I just wired existing solutions together. Didn't expect it — but it works great! Without bmad-party the result is significantly worse. **Formulate your tasks well!**
+<p align="center">
+<a href="https://github.com/DoroninDobroCorp/RSVP_reader"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/RSVP_reader/main/assets/brand/hummingread-chrome-marquee.png" width="380" alt="HummingRead" /></a>
+</p>
 
-`Python` · `tmux` · `Cerebras` · `Gemini`
+`JavaScript` · `PWA` · `Chrome Extension` · `Capacitor`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔬 [Research Automation](https://github.com/DoroninDobroCorp/research-automation) — Deep Research
-*3 AI engines → Claude Opus → final report*
+#### 🛠️ [Tree of Father](https://github.com/DoroninDobroCorp/tree_of_father) — Workshop Skill RPG
+*Local-first maker skill tree and workshop journal*
 
-Parallel deep research: Parallel AI + Gemini + Perplexity → automatic consolidation. An excellent complement to professional development — **I use it almost daily.**
+Personal RPG-style progression system for DIY craftspeople. 14 disciplines, 391 verified skills with first-person criteria, 120 project cards, and 134 tools catalog. Zero external dependencies, pure Python backend with Git auto-versioning and human-in-the-loop AI assistance.
 
-`Python` · `Playwright` · `Claude Opus`
+`Python` · `Local-First` · `Zero-Deps` · `AI-Assisted`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🌍 [LinguaLearn](https://github.com/DoroninDobroCorp/LinguaLearn) — AI Language Assistant
+*Master English & Spanish with your personal AI tutor*
+
+Multiplatform language learning assistant powered by Google Gemini. Interactive conversational scenarios, writing analysis, and native clients with cross-platform synchronization.
+
+`React` · `Node.js` · `Gemini AI` · `Cross-Platform`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏃 [Run Game](https://github.com/DoroninDobroCorp/run_game) — Geo-Narrative Running Audio Game
+*Your city becomes the game level*
+
+Transforms daily running workouts into an interactive real-world story. Builds loop routes through actual landmarks around your home and weaves them into immersive audio scenes triggered dynamically by your cadence and location.
+
+`Python` · `Geo-Spatial` · `Audio Storytelling` · `Fitness`
 
 </td>
 </tr>
@@ -102,24 +148,13 @@ Parallel deep research: Parallel AI + Gemini + Perplexity → automatic consolid
 
 I'm an avid traveler 🌏 — existing tools weren't enough, I kept switching between multiple maps, so I built my own. Welcome, fellow travelers! Also check out [FatMap](https://fatmap.com) and [geocaching.com](https://geocaching.com) 🗺️
 
+<p align="center">
 <a href="https://github.com/DoroninDobroCorp/TerraIncognita"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/DoroninDobroCorp/main/assets/terra-incognita-map.png" width="300" alt="Terra Incognita Map" /></a>
+</p>
 
 `Python` · `FastAPI` · `MapLibre GL` · `OSM`
 
 </td>
-<td width="50%" valign="top">
-
-#### 📖 [RSVP Reader](https://github.com/DoroninDobroCorp/RSVP_reader) — Speed Reading PWA
-*Try it free → [read.ibet.team](https://read.ibet.team)*
-
-Couldn't find a free RSVP reader for iPhone that works. Built my own — EPUB, offline, book library — all in ~40 KB vanilla JS.
-
-`JavaScript` · `PWA` · `Service Worker`
-
-</td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 #### 🎰 [Simulation](https://github.com/DoroninDobroCorp/simulation) — Bankroll Simulator
@@ -130,7 +165,10 @@ Couldn't find a free RSVP reader for iPhone that works. Built my own — EPUB, o
 `Python` · `NumPy` · `SciPy` · `PyQt5`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
 
 #### 🛠 [Fusion 360 Scripts](https://github.com/DoroninDobroCorp/fusion360-scripts) — CAD Automation
 *Parametric modeling tools for Autodesk Fusion 360*
@@ -141,4 +179,155 @@ Auto-calculate dimensions, bounding boxes, proportional parameter linking. `Pyth
 </tr>
 </table>
 
+---
 
+<!-- ═══════════════════════════════════════════════ -->
+<!-- ██  РУССКИЙ  ██ -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<h2 id="-русский">🇷🇺 Русский</h2>
+
+### 🧰 Стек
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-S_rank-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Go-A++-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/static/v1?label=Rust&message=A-&color=b7410e&style=flat-square&logo=rust&logoColor=white&labelColor=1a1a2e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-B+-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e" />
+</p>
+
+---
+
+### 💼 Ищу инженеров
+
+> Если вы уже писали **сложные проекты** — сложнее, чем «5 промптов в топовую LLM» — и вы можете работать в **6 терминалах одновременно**, давайте поговорим.
+
+<p align="center">
+  <a href="mailto:DoroninDobro@gmail.com"><img src="https://img.shields.io/badge/DoroninDobro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://t.me/vovka_dobro"><img src="https://img.shields.io/badge/@vovka__dobro-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧪 Собрал вместо сна
+
+<table>
+<tr>
+<td colspan="2" valign="top">
+
+<div align="center">
+
+#### ♟️ [MiniChess](https://github.com/DoroninDobroCorp/MiniChessVovka) — #1 в мире 🏆
+*Движок 6×6 Crazyhouse, занявший 1-е место в мировом рейтинге Chess.com*
+
+</div>
+
+Ядро на Rust — alpha-beta поиск, PVS, LMR, null-move pruning. Тренировка self-play за ночь. PyO3 биндинги → Python GUI → бот для Chess.com.
+
+<p align="center">
+<a href="https://github.com/DoroninDobroCorp/MiniChessVovka"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/MiniChessVovka/main/assets/screenshots/top1.jpg" width="420" alt="#1 в мире" /></a>
+</p>
+
+<p align="center">
+📰 <a href="https://habr.com/ru/articles/1008978/"><b>Публикация на Хабре</b></a> о проекте — 20,000+ просмотров, статья в топе месяца
+</p>
+
+<p align="center">
+<code>Rust</code> · <code>PyO3</code> · <code>Python</code>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🕊️ [HummingRead](https://github.com/DoroninDobroCorp/RSVP_reader) — Скорочтение и фокус
+*RSVP-ридер для EPUB, FB2, DOCX, TXT и статей*
+
+Local-first приложение для быстрого и комфортного чтения. Одно- и двухсловный RSVP-режим с фиксацией на точке оптического распознавания (ORP), гибкий контроль WPM, светлая/тёмная тема, офлайн-библиотека.
+
+<p align="center">
+<a href="https://github.com/DoroninDobroCorp/RSVP_reader"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/RSVP_reader/main/assets/brand/hummingread-chrome-marquee.png" width="380" alt="HummingRead" /></a>
+</p>
+
+`JavaScript` · `PWA` · `Chrome Extension` · `Capacitor`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛠️ [Tree of Father](https://github.com/DoroninDobroCorp/tree_of_father) — Своя мастерская · Skill RPG
+*Личная карта maker/DIY-навыков и журнал проектов*
+
+RPG-система прокачки для домашнего мастера. 14 направлений, 391 навык с проверяемыми критериями, 120 карточек проектов и 134 инструмента. Полная автономность (Zero Dependencies), локальный бэкенд на стандартной библиотеке Python с Git-автосохранением и ИИ-наставником.
+
+`Python` · `Local-First` · `Zero-Deps` · `AI-Assisted`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🌍 [LinguaLearn](https://github.com/DoroninDobroCorp/LinguaLearn) — ИИ-ассистент изучения языков
+*Английский и испанский с персональным ИИ-тьютором*
+
+Мультиплатформенная экосистема для изучения языков на базе Google Gemini. Интерактивные сценарии диалогов, глубокий анализ письменной речи и нативные клиенты с синхронизацией.
+
+`React` · `Node.js` · `Gemini AI` · `Cross-Platform`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏃 [Run Game](https://github.com/DoroninDobroCorp/run_game) — Geo-Narrative беговая игра
+*Твой город становится игровым уровнем*
+
+Превращает регулярные пробежки в захватывающую интерактивную историю. Автоматически строит круговой маршрут через реальные места вокруг дома и превращает городские локации в сюжетные сцены с голосовым ведением под темп бега.
+
+`Python` · `Geo-Spatial` · `Audio Storytelling` · `Fitness`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🌍 [Terra Incognita](https://github.com/DoroninDobroCorp/TerraIncognita) — Спутник путешественника
+*Находите места, которых нет в популярных путеводителях*
+
+Я заядлый путешественник 🌏 — существующих инструментов не хватало, постоянно переключался между картами, и сделал свой. Добро пожаловать, путешественники! Также рекомендую [FatMap](https://fatmap.com) и [geocaching.com](https://geocaching.com) 🗺️
+
+<p align="center">
+<a href="https://github.com/DoroninDobroCorp/TerraIncognita"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/DoroninDobroCorp/main/assets/terra-incognita-map.png" width="300" alt="Карта Terra Incognita" /></a>
+</p>
+
+`Python` · `FastAPI` · `MapLibre GL` · `OSM`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎰 [Simulation](https://github.com/DoroninDobroCorp/simulation) — Симулятор банкролла
+*Метод Монте-Карло для стратегий ставок*
+
+12+ стратегий (Kelly, адаптивные, гибридные), оптимизатор параметров, GUI (PyQt5). **Для исследований / обучения.**
+
+`Python` · `NumPy` · `SciPy` · `PyQt5`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+#### 🛠 [Fusion 360 Scripts](https://github.com/DoroninDobroCorp/fusion360-scripts) — Автоматизация CAD
+*Параметрическое моделирование для Autodesk Fusion 360*
+
+Авторасчёт размеров, bounding boxes, связка пропорциональных параметров. `Python` · `Fusion 360 API`
+
+</td>
+</tr>
+</table>
