@@ -112,6 +112,10 @@ Local-first speed reader anchored by Pico the focus pilot. Single or two-word RS
 
 Personal RPG-style progression system for DIY craftspeople. 14 disciplines, 391 verified skills with first-person criteria, 120 project cards, and 134 tools catalog. Zero external dependencies, pure Python backend with Git auto-versioning and human-in-the-loop AI assistance.
 
+<p align="center">
+<a href="https://github.com/DoroninDobroCorp/tree_of_father"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/DoroninDobroCorp/main/assets/tree-of-father-dashboard.jpg" width="300" alt="Tree of Father — workshop dashboard" /></a>
+</p>
+
 `Python` · `Local-First` · `Zero-Deps` · `AI-Assisted`
 
 </td>
@@ -124,6 +128,10 @@ Personal RPG-style progression system for DIY craftspeople. 14 disciplines, 391 
 *Master English & Spanish with your personal AI tutor*
 
 Multiplatform language learning assistant powered by Google Gemini. Interactive conversational scenarios, writing analysis, and native clients with cross-platform synchronization.
+
+<p align="center">
+<a href="https://github.com/DoroninDobroCorp/LinguaLearn"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/DoroninDobroCorp/main/assets/lingualearn-course-map.jpg" width="300" alt="LinguaLearn — A1 Spanish course map" /></a>
+</p>
 
 `React` · `Node.js` · `Gemini AI` · `Cross-Platform`
 
@@ -290,6 +298,10 @@ Local-first приложение для быстрого и комфортног
 
 RPG-система прокачки для домашнего мастера. 14 направлений, 391 навык с проверяемыми критериями, 120 карточек проектов и 134 инструмента. Полная автономность (Zero Dependencies), локальный бэкенд на стандартной библиотеке Python с Git-автосохранением и ИИ-наставником.
 
+<p align="center">
+<a href="https://github.com/DoroninDobroCorp/tree_of_father"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/DoroninDobroCorp/main/assets/tree-of-father-dashboard.jpg" width="300" alt="Своя мастерская — главный экран" /></a>
+</p>
+
 `Python` · `Local-First` · `Zero-Deps` · `AI-Assisted`
 
 </td>
@@ -302,6 +314,10 @@ RPG-система прокачки для домашнего мастера. 14
 *Английский и испанский с персональным ИИ-тьютором*
 
 Мультиплатформенная экосистема для изучения языков на базе Google Gemini. Интерактивные сценарии диалогов, глубокий анализ письменной речи и нативные клиенты с синхронизацией.
+
+<p align="center">
+<a href="https://github.com/DoroninDobroCorp/LinguaLearn"><img src="https://raw.githubusercontent.com/DoroninDobroCorp/DoroninDobroCorp/main/assets/lingualearn-course-map.jpg" width="300" alt="LinguaLearn — карта курса испанского A1" /></a>
+</p>
 
 `React` · `Node.js` · `Gemini AI` · `Cross-Platform`
 
