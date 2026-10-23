@@ -174,7 +174,7 @@ I'm an avid traveler 🌏 — existing tools weren't enough, I kept switching be
 <tr>
 <td colspan="2" valign="top">
 
-#### 🥗 Health Food — Blood Tests → Food Goals
+#### 🥗 [Health Food](https://github.com/DoroninDobroCorp/health-food) — Blood Tests → Food Goals
 *Turns lab results into up to three clear nutrition goals, a meal plan and a shopping list*
 
 Web app tuned for Argentina (Spanish UI, local labs and units). Upload a lab PDF or type values, confirm every parsed number yourself, and a deterministic rules engine returns **at most 3 goals** — no guessing. Fail-closed safety: an unknown unit, an implausible value or a red flag (high fasting glucose, pregnancy, kidney/liver disease, under 18) blocks all advice and routes to a doctor. Allergen-aware meal plan, shopping list, weekly check-ins and progress charts across tests. AI is off by default and only rephrases goals. *A personal project, not a medical product — the rules are an unreviewed draft.*
@@ -352,7 +352,7 @@ RPG-система прокачки для домашнего мастера. 14
 <tr>
 <td colspan="2" valign="top">
 
-#### 🥗 Health Food — Анализы крови → цели в питании
+#### 🥗 [Health Food](https://github.com/DoroninDobroCorp/health-food) — Анализы крови → цели в питании
 *Превращает результаты анализов в до трёх понятных пищевых целей, план питания и список покупок*
 
 Веб-приложение под Аргентину (испанский интерфейс, местные лаборатории и единицы). Загружаете PDF анализа или вводите значения, каждое распознанное число подтверждаете сами, а детерминированный движок правил выдаёт **не больше 3 целей** — без догадок. Безопасность по принципу fail-closed: неизвестная единица, неправдоподобное значение или красный флаг (высокая глюкоза натощак, беременность, болезни почек/печени, возраст до 18) блокируют любые рекомендации и ведут к врачу. План питания без ваших аллергенов, список покупок, еженедельный чек-ин и графики динамики между анализами. ИИ по умолчанию выключен и лишь переформулирует цели. *Личный проект, а не медицинский продукт: правила пока не проверял врач.*
